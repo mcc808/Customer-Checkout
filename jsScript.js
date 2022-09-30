@@ -27,7 +27,7 @@ document.write("<p>Subtotal: " + "$" + subTotal + " </p>" );
 
 document.write("<p>Tax: 7.25%: " + "$" + tx + " </p>" );
 
-document.write("<p>Total: " + "$" + fin + " </p>" );*/
+document.write("<p>Total: " + "$" + fin + " </p>" );
 
 
 
